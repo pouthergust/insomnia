@@ -1,0 +1,40 @@
+_id: req_067bbe284bb24b92bdefdc520510585a
+type: Request
+parentId: fld_d4291a81323c4cb4888769d57a8d89eb
+modified: 1670868013978
+created: 1670851265432
+url: https://srwsdes01--agenciamagma.myvtex.com/api/sessions
+name: Session API - v2
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "public":{
+            "country":{
+                "value": "BRA"
+    				},
+    			"postalCode": {
+    					"value": "18010070"
+    			}
+        }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_470798ac822d46498b0f3d8c85af1bd3
+  - id: pair_cc186275863f409099e6e86666f00c4b
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1662384350486
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,33 @@
+_id: req_72ab49b4fd0f4a30981d42878f00d4be
+type: Request
+parentId: fld_1af2218e407e479fbaa224210299f866
+modified: 1663085945809
+created: 1663030132517
+url: https://restool-sample-app.herokuapp.com/api/character
+name: request 02
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "thumbnail": "https://source.unsplash.com/300x300/?woman",
+        "name": "Valquiria",
+        "realName": "Valfran",
+        "location": "Beyond the Wall",
+        "isAlive": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_2a5af25b104f4458a39b352991bdf91c
+authentication: {}
+metaSortKey: -1662770509558.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

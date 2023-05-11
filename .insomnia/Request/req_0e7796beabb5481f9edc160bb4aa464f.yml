@@ -1,0 +1,21 @@
+_id: req_0e7796beabb5481f9edc160bb4aa464f
+type: Request
+parentId: fld_c6189978cc2941d1becf39d5ab51aa28
+modified: 1680029412026
+created: 1680029351892
+url: https://pisano.myvtex.com/api/dataentities/PR/search?_fields=activo,cucarda,cucardaRight,cuotas,derecha,fechaDesde,fechaHasta,img,imgMobile,izquierda,nombre,orden,percentage,products,text
+name: Promo Summary
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679803767346.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

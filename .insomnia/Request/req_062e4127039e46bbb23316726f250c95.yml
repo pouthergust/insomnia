@@ -1,0 +1,45 @@
+_id: req_062e4127039e46bbb23316726f250c95
+type: Request
+parentId: fld_757ae9a693534e62ab140273db213107
+modified: 1673470808579
+created: 1673469363734
+url: https://devmicuenta02--coppelar.myvtex.com/api/dataentities/CL/documents/4c9ad4cf-3019-40a6-84b3-5aa9ea6ccfb5
+name: MasterData
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"firstName": "Gabriel Henrique"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_68c6b3cd965e430ba4ceb848cc8137f2
+    disabled: false
+  - id: pair_f12cb33c37034970944ad8671f6a22d0
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-coppelar-PMCFPF
+    description: ""
+    disabled: false
+  - id: pair_2186172c31684f1db14f37f9d6e63373
+    name: X-VTEX-API-AppToken
+    value: SHRDJPPAKMDCOSBKIRJXCPCQCVJJDAVUIBCWYVTPDQNMQYZFBSTSUPWDEBANGGXKQJUNQFMMXTTLBPAEWDHLHCZTEZRWVGJWTDWGEMPWFGVBVKBPBWRDZLCNKAIRNPRR
+    description: ""
+    disabled: false
+authentication:
+  type: apikey
+  disabled: false
+  key: ""
+  value: ""
+  addTo: header
+metaSortKey: -1673469363734
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,40 @@
+_id: req_f5dd9f130178462aa51d2e34627e92b2
+type: Request
+parentId: fld_2c80ddc33bab4a70921e55cee8693894
+modified: 1672250328333
+created: 1669917314675
+url: https://wsdes04--superrissul.myvtex.com/api/sessions
+name: Session API - v2
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "public":{
+            "country":{
+                "value": "BRA"
+    				},
+    			"postalCode": {
+    					"value": ""
+    			}
+        }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_470798ac822d46498b0f3d8c85af1bd3
+  - id: pair_cc186275863f409099e6e86666f00c4b
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1655942973427.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

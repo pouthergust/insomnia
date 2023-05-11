@@ -1,0 +1,31 @@
+_id: req_cdeb0c7e8f374a2c9e5ee4658aaf25a1
+type: Request
+parentId: fld_3f4a891efc4545caa72507035e40a34d
+modified: 1670501742769
+created: 1661520776400
+url: https://mobcom.vtexcommercestable.com.br/api/catalog_system/pub/products/search?fq=productId:9355
+name: API Promotion
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_b47dd8ac5b0741fba71dba6f3cd8d933
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-agenciamagma-CQYKOA
+    description: ""
+    disabled: true
+  - id: pair_633118c20e54423090c18d1c59248d31
+    name: X-VTEX-API-AppToken
+    value: PNOLYBVVVVPLGJKEUKXLCPUVNXBDHUEJVUECAEARQAHNWIERNOROBTEUNUDGSALRJOOFTRNKOJVPVGBVMPYBJWXHHRSUDZODRTXDJEOIDEMOFELBQORHLWJSIPUYNEWY
+    description: ""
+    disabled: true
+authentication: {}
+metaSortKey: -1661520776400
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

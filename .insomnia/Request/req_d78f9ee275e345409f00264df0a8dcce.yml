@@ -1,0 +1,36 @@
+_id: req_d78f9ee275e345409f00264df0a8dcce
+type: Request
+parentId: fld_2c80ddc33bab4a70921e55cee8693894
+modified: 1672250751541
+created: 1657217999793
+url: https://wsdes04--superrissul.myvtex.com/api/checkout/pub/regions/v2.1BB18CE648B5111D0933734ED83EC783
+name: Sellers by region
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_61e943b9695d4c2fb38c994fcebc5efc
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-hmlzaffari-PTNLUB
+    description: ""
+    disabled: true
+  - id: pair_a91942a8f4534f3da27b441f9563bac5
+    name: X-VTEX-API-AppToken
+    value: HRSMWBBTUYZGJJTRZALWQIVSFJECGVLULCOLGPPWEOTWZEROASAMDZWZWZHMWZMYMEVGUIKKKPRBOYTARPCOVZRMFPOGHDZFBVKUJLURHQBOHUKYGGUGWYDMMJAETECH
+    description: ""
+    disabled: true
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1655942973527.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

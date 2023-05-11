@@ -1,0 +1,37 @@
+_id: req_9d1233c8d5e04ad092baf483e2ae64e6
+type: Request
+parentId: fld_e345de74e3c74e3888079514149d34f2
+modified: 1670866871793
+created: 1657737932418
+url: https://tgabrielhenrique--hmlzaffari.myvtex.com/api/sessions
+name: Session API - base64
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "public": {
+            "regionId": {
+                "value": "U1cjaG1semFmZmFyaTEwNTA="
+            }
+        }
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_470798ac822d46498b0f3d8c85af1bd3
+  - id: pair_cc186275863f409099e6e86666f00c4b
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1655942973358.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

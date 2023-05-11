@@ -1,0 +1,47 @@
+_id: req_a0859a7ebc114635908402de009eefbd
+type: Request
+parentId: fld_dd8867c45a6b4f3981f3a0404455d941
+modified: 1683832512361
+created: 1683832151491
+url: https://universalautomotive.myvtex.com/api/dataentities/AD/documents/50323bd4-809c-11ed-83ab-16105f339c75
+name: MasterData
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "addressName": "Endereço de entrega principal",
+        "addressType": "commercial",
+        "country": "BRA",
+        "receiverName": "Tester tester",
+        "postalCode": "12345-012",
+        "street": "streetAndNumber",
+        "complement": "casa",
+        "neighborhood": "",
+        "city": "",
+        "state": "SP",
+        "userId": "gabriel.henrique@agenciam3.com",
+      }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_e4a8f144ce0047deb04b9551a16f6e9e
+  - id: pair_6f58b21ce3b74947ac82e4a576940ab0
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-universalautomotive-BNQJBT
+    description: ""
+  - id: pair_d32eb8f435fc4e69b00d1b17a428f164
+    name: X-VTEX-API-AppToken
+    value: KFMFMGMOERJRWYWPQJMBVHPIZHAAPQGRBPUMULRXECMDAWIASNXNCJWEBIIREWIKIXCRDIHRLASVWTDJYOSEEASMGPWPPJHITTYRNAMEVVWZAEJNVFBMYHJCYMDSXRGW
+    description: ""
+authentication: {}
+metaSortKey: -1683223673953.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

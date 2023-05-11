@@ -1,0 +1,16 @@
+_id: env_985dc057d19742fba68cdf77136ac6f2
+type: Environment
+parentId: env_4b42f36e67b3a08df130099aa24902ec887b214f
+modified: 1657741161330
+created: 1657196915302
+name: Zaffari
+data:
+  base_url: https://zaffari.vtexcommercestable.com.br
+  base_url_ws: https://tgabrielhenrique--hmlzaffari.myvtex.com
+dataPropertyOrder:
+  "&":
+    - base_url
+    - base_url_ws
+color: "#069004"
+isPrivate: false
+metaSortKey: 1657196915302

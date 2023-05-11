@@ -1,0 +1,30 @@
+_id: req_3e3921075528450782bd772d9aa913a6
+type: Request
+parentId: fld_08d3cfe2547949ffa28e502cfe92b269
+modified: 1670283327842
+created: 1655943086759
+url: http://localhost:8080/user
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "FelipeT",
+    	"password": "123456"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_23100f451a204ea4adb3e6ba23347470
+authentication: {}
+metaSortKey: -1655943086759
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

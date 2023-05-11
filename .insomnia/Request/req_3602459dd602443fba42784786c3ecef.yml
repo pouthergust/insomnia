@@ -1,0 +1,21 @@
+_id: req_3602459dd602443fba42784786c3ecef
+type: Request
+parentId: fld_2c80ddc33bab4a70921e55cee8693894
+modified: 1672767960420
+created: 1672757793415
+url: https://wsdes04--superrissul.myvtex.com/api/dataentities/LT/documents/?_where=products=''&_where=email=gabriel.henrique@agenciam3.com
+name: Master Data - list test
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655942973567.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

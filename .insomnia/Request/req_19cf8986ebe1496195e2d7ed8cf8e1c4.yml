@@ -1,0 +1,44 @@
+_id: req_19cf8986ebe1496195e2d7ed8cf8e1c4
+type: Request
+parentId: fld_2c80ddc33bab4a70921e55cee8693894
+modified: 1671627657889
+created: 1671563701853
+url: https://wsdes04--superrissul.myvtex.com/api/dataentities/LT/documents/50323bd4-809c-11ed-83ab-16105f339c75
+name: Master Data
+description: ""
+method: PATCH
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"products": ""
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_1495d3e72d404305a69022cc434d57bb
+  - id: pair_d66e3be8c3114101ad37ae91bef8b044
+    name: id
+    value: 11e677b1-809b-11ed-83ab-02fd545f1d63
+    description: ""
+    disabled: true
+  - id: pair_3be8eede113b4a558655d4e84919aa9b
+    name: x-vtex-api-appKey
+    value: vtexappkey-superrissul-HDGXAJ
+    description: ""
+    disabled: true
+  - id: pair_f4821452ce2449f3b1e13fc664a5ee39
+    name: x-vtex-api-appToken
+    value: XFVAWVXDHULFXGGQEFRPOUHYEJZEZRGNLJKTVLDBSDKUQBSLAVCSWRKOGOWWMHKINCVDNRQZVHVCKMXNPZQXCNHPJTOGHXQELAVMGESQZCHOENETWLZALHVNRKCDIKWZ
+    description: ""
+    disabled: true
+authentication: {}
+metaSortKey: -1655942973552.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

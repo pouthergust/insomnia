@@ -1,0 +1,29 @@
+_id: req_d30f81bc9283425487c4f71f94117f13
+type: Request
+parentId: fld_99bce7ee0ad549709b165444bdfac7b5
+modified: 1683744987197
+created: 1683744940073
+url: https://pormade.vtexcommercestable.com.br/api/checkout/pvt/configuration/orderForm
+name: reCaptcha
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_f91a51814101421eb6f2c959a8c62473
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-pormade-PFEBIN
+    description: ""
+  - id: pair_7b0e87eaa3a94bf099d39135d40e9e5b
+    name: X-VTEX-API-AppToken
+    value: OYTOSMRCKRTWXPEXZSAVXPUUMVWQBJUHSLVKVGYAVYWUUPIPHYKVPYFIQITZBMLEJNDCRGUXXUOTXYUFPZKXUFMQCWNQOWMPIHJMKJXVLJQPNPSKLKBUCPZIWXYWGZIT
+    description: ""
+authentication: {}
+metaSortKey: -1683744940073
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

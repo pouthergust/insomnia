@@ -1,0 +1,26 @@
+_id: req_a3dd6525ddfa4e93ba07f6171a86bd78
+type: Request
+parentId: fld_d4291a81323c4cb4888769d57a8d89eb
+modified: 1670851317111
+created: 1670851308716
+url: https://srwsdes01--agenciamagma.myvtex.com/api/sessions?items=*
+name: Session API
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_79168173c1ca441b8915517d1cc50c81
+authentication: {}
+metaSortKey: -1662384350542.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

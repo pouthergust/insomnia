@@ -1,0 +1,13 @@
+_id: ut_1d68af80ac06449ebfdb04c3406bb1c5
+type: UnitTest
+parentId: uts_197f82db12954dcab35a2cf888827498
+modified: 1662512476413
+created: 1662510869245
+requestId: req_84c4f89dd28f4b35ac023fc4cf416c18
+name: DH tests
+code: |-
+  const response1 = await insomnia.send();
+
+  console.log(response1.data);
+
+  expect(response1.status).to.equal(200);

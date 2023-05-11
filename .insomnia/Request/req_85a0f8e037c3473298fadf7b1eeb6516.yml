@@ -1,0 +1,31 @@
+_id: req_85a0f8e037c3473298fadf7b1eeb6516
+type: Request
+parentId: fld_1af2218e407e479fbaa224210299f866
+modified: 1663033124192
+created: 1663030136102
+url: https://restool-sample-app.herokuapp.com/api/character/s9S4A9csgIxi
+name: request 03
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+        "numberTest": 1010,
+        "location": "Winterfell",
+        "isAlive": true
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_947385276e68474cbe4644a9798103e8
+authentication: {}
+metaSortKey: -1662640771796.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

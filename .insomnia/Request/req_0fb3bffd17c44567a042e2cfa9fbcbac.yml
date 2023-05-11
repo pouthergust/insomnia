@@ -1,0 +1,21 @@
+_id: req_0fb3bffd17c44567a042e2cfa9fbcbac
+type: Request
+parentId: fld_1af2218e407e479fbaa224210299f866
+modified: 1663031503468
+created: 1663031041771
+url: https://restool-sample-app.herokuapp.com/api/character/L4aIehLjfLF4
+name: request 04
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1662640771746.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

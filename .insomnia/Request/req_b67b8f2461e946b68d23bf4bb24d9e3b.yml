@@ -1,0 +1,36 @@
+_id: req_b67b8f2461e946b68d23bf4bb24d9e3b
+type: Request
+parentId: fld_e345de74e3c74e3888079514149d34f2
+modified: 1670861003170
+created: 1657800861613
+url: https://tgabrielhenrique--hmlzaffari.myvtex.com/api/checkout/pub/regions/v2.4940A148285E183EA7EC408CF9CCEFCD
+name: Sellers by region - base64
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_61e943b9695d4c2fb38c994fcebc5efc
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-hmlzaffari-PTNLUB
+    description: ""
+    disabled: false
+  - id: pair_a91942a8f4534f3da27b441f9563bac5
+    name: X-VTEX-API-AppToken
+    value: HRSMWBBTUYZGJJTRZALWQIVSFJECGVLULCOLGPPWEOTWZEROASAMDZWZWZHMWZMYMEVGUIKKKPRBOYTARPCOVZRMFPOGHDZFBVKUJLURHQBOHUKYGGUGWYDMMJAETECH
+    description: ""
+    disabled: false
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1655942973383.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

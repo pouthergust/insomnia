@@ -1,0 +1,21 @@
+_id: req_5c645d1bdcf94a3da03468fcddf95527
+type: Request
+parentId: fld_c6189978cc2941d1becf39d5ab51aa28
+modified: 1680029389974
+created: 1680023620337
+url: https://pisano.myvtex.com/api/dataentities/PD/search?_fields=activo,cuotas,percentage,products
+name: Payment Details
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1680023620337
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

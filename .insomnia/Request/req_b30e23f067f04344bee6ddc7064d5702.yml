@@ -1,0 +1,36 @@
+_id: req_b30e23f067f04344bee6ddc7064d5702
+type: Request
+parentId: fld_e345de74e3c74e3888079514149d34f2
+modified: 1670501691225
+created: 1657197733580
+url: http://zaffari1510.vtexcommercestable.com.br/api/catalog_system/pub/category/tree/1
+name: Category Tree
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_61e943b9695d4c2fb38c994fcebc5efc
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-hmlzaffari-QQVWDT
+    description: ""
+    disabled: false
+  - id: pair_a91942a8f4534f3da27b441f9563bac5
+    name: X-VTEX-API-AppToken
+    value: LGSFLHHNNMJSSGRKBYQGVBZXVCJEBGHCIYQKENCZRJEUCYOYYHJKFBFJHVJJXCLGFGJTPGFNVRPLXEVXNLFTWWWHSHDJDTBOYXPVPVJSBVOOMULDAMWMWRJIKCBHDWKC
+    description: ""
+    disabled: false
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1655942973458.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

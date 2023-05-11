@@ -1,0 +1,33 @@
+_id: req_b2a0ca8b256d46cc9576cac606885c2b
+type: Request
+parentId: fld_59f67a067e9b4cea9aa0505eaf330726
+modified: 1678134414362
+created: 1678132267026
+url: https://api.woowup.com/apiv3/account/custom-attributes
+name: Custom Attributes
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_d8b15c063af84a3eb110fecec6f61749
+    name: Content-Type
+    value: application/json
+    description: ""
+  - id: pair_f023b5c6b1f24d9fbf3f1d244a977517
+    name: Accept
+    value: application/json
+    description: ""
+  - id: pair_eab8a3f6f117417680ea2be9ea3f2f11
+    name: Authorization
+    value: Basic 641ed5c863538113cd290763679d6d2d0435eb62703184fd01c6195d69f3f030
+    description: ""
+authentication: {}
+metaSortKey: -1678132267026
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

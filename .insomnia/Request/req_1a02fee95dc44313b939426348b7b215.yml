@@ -1,0 +1,40 @@
+_id: req_1a02fee95dc44313b939426348b7b215
+type: Request
+parentId: fld_59f67a067e9b4cea9aa0505eaf330726
+modified: 1678133837131
+created: 1678131016235
+url: https://api.woowup.com/apiv3/account/custom-attributes
+name: Custom Attributes
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    	{
+            "label": "Edad",
+    				"name": "edad", 
+    				"field_type": "text", 
+    				"data_type": "string"
+        }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_4d42c4b40f2944f49f42d6e8a68198b8
+  - id: pair_bd57fd48759143e49dcb9992be4bf1b6
+    name: Authorization
+    value: Basic 641ed5c863538113cd290763679d6d2d0435eb62703184fd01c6195d69f3f030
+    description: ""
+  - id: pair_f7123e7335734012babd453d12490d0c
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1678131016235
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

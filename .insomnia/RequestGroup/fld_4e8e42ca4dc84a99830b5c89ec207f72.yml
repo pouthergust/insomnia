@@ -1,0 +1,10 @@
+_id: fld_4e8e42ca4dc84a99830b5c89ec207f72
+type: RequestGroup
+parentId: wrk_26b7b8e49c904471a29a23e2e58b73f7
+modified: 1655942994592
+created: 1655942994592
+name: VTEX
+description: ""
+environment: {}
+environmentPropertyOrder: null
+metaSortKey: -1655942994592

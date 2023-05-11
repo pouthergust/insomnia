@@ -1,0 +1,29 @@
+_id: req_6c96d8c9f8e74dd28141920557959a9c
+type: Request
+parentId: fld_59f67a067e9b4cea9aa0505eaf330726
+modified: 1678135134380
+created: 1678134124319
+url: https://api.woowup.com/apiv3/users/148686082
+name: Users
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_d02859a78bf546e28e506cd78927d1f8
+    name: Accept
+    value: application/json
+    description: ""
+  - id: pair_6b3fe451b7ef49d2af04c9f18c4fd359
+    name: Authorization
+    value: Basic 641ed5c863538113cd290763679d6d2d0435eb62703184fd01c6195d69f3f030
+    description: ""
+authentication: {}
+metaSortKey: -1678134124319
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

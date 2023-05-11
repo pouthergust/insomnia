@@ -1,0 +1,26 @@
+_id: req_efd607232f044098b53b2c2e9ab983ba
+type: Request
+parentId: fld_2c80ddc33bab4a70921e55cee8693894
+modified: 1672250558546
+created: 1654026324830
+url: https://wsdes04--superrissul.myvtex.com/api/sessions?items=*
+name: Session API
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_79168173c1ca441b8915517d1cc50c81
+authentication: {}
+metaSortKey: -1655942973477.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

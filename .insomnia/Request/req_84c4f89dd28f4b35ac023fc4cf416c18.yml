@@ -1,0 +1,31 @@
+_id: req_84c4f89dd28f4b35ac023fc4cf416c18
+type: Request
+parentId: fld_08d3cfe2547949ffa28e502cfe92b269
+modified: 1669161026993
+created: 1662511034034
+url: http://localhost:8090/cliente/salvar
+name: Backend I
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"id": 2,
+    	"titulo": "Aooba",
+    	"categoria": "suspense",
+    	"premio": "5"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1662511034034
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

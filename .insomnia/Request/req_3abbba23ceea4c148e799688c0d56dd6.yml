@@ -1,0 +1,36 @@
+_id: req_3abbba23ceea4c148e799688c0d56dd6
+type: Request
+parentId: fld_d4291a81323c4cb4888769d57a8d89eb
+modified: 1670850752249
+created: 1670850740729
+url: http://agenciamagma.vtexcommercestable.com.br/api/catalog_system/pvt/seller/list
+name: Sellers List
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_61e943b9695d4c2fb38c994fcebc5efc
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-superrissul-HDGXAJ
+    description: ""
+    disabled: false
+  - id: pair_a91942a8f4534f3da27b441f9563bac5
+    name: X-VTEX-API-AppToken
+    value: XFVAWVXDHULFXGGQEFRPOUHYEJZEZRGNLJKTVLDBSDKUQBSLAVCSWRKOGOWWMHKINCVDNRQZVHVCKMXNPZQXCNHPJTOGHXQELAVMGESQZCHOENETWLZALHVNRKCDIKWZ
+    description: ""
+    disabled: false
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1662384350561
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

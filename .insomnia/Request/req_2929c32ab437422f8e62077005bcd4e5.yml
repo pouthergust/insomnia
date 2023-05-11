@@ -1,0 +1,25 @@
+_id: req_2929c32ab437422f8e62077005bcd4e5
+type: Request
+parentId: fld_e345de74e3c74e3888079514149d34f2
+modified: 1670501673645
+created: 1657201152216
+url: https://tgabrielhenrique--hmlzaffari.myvtex.com/api/segments
+name: Session API - Segments
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_cc186275863f409099e6e86666f00c4b
+    name: ""
+    value: ""
+    description: ""
+authentication: {}
+metaSortKey: -1655942973408.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

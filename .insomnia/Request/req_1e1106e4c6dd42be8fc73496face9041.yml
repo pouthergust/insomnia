@@ -1,0 +1,29 @@
+_id: req_1e1106e4c6dd42be8fc73496face9041
+type: Request
+parentId: fld_281272585f1b4d50ac2973719428299e
+modified: 1681309807083
+created: 1681242671212
+url: https://www.institutouniversal.com.br/api/dataentities/RV/search?showReview=true&_fields=studentCourse,studentImage,studentName,studentReview,id
+name: Reviews
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_2b00ba67b84e4d9f999539aa3d7d28b6
+    name: Accept
+    value: application/vnd.vtex.ds.v10+json
+    description: ""
+  - id: pair_ddaa5ca88ed74a8cb918ae4b447a9ce2
+    name: Content-Type
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1681242671212
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

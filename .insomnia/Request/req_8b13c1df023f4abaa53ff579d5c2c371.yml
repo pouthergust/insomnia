@@ -1,0 +1,21 @@
+_id: req_8b13c1df023f4abaa53ff579d5c2c371
+type: Request
+parentId: fld_08d3cfe2547949ffa28e502cfe92b269
+modified: 1681499830591
+created: 1681499798972
+url: https://dhodonto.ctdprojetos.com.br/dentista
+name: Frontend III - CP II
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1662479363159.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

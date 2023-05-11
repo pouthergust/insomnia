@@ -1,0 +1,39 @@
+_id: req_b73df41918094dc4a5b594a6009a248e
+type: Request
+parentId: fld_3f4a891efc4545caa72507035e40a34d
+modified: 1670501755306
+created: 1662384350486
+url: https://mobcom.myvtex.com/_v/abandoned-cart
+name: abandoned cart
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-2
+      {
+        "email": "gabriel.henrique@agenciam3.com",
+        "skuURL": "599500",
+        "template": "vtexcommerce-abandoned-cart",
+        "additionalFields": {
+          "firstName": "Gabriel"
+        } 
+      }
+parameters: []
+headers:
+  - id: pair_3dcea17559e9446f8a99010c165635c6
+    name: "content-type "
+    value: application/json
+    description: ""
+  - id: pair_0abd02db3d6e4d5f9bfcdeb1396d330d
+    name: accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1661520776350
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

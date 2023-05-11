@@ -1,0 +1,50 @@
+_id: req_e74d81f04d0945a1bc6f7b261e9a5a00
+type: Request
+parentId: fld_59f67a067e9b4cea9aa0505eaf330726
+modified: 1678134547737
+created: 1678127930805
+url: https://api.woowup.com/apiv3/users
+name: users
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"app": "vgvfFez1q",
+    	"first_name": "John2",
+    	"email": "John2@John.com",
+    	"custom_attributes": {
+    		"edad": "15"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_9662a58e049f453eae3d3dfd3848b878
+  - id: pair_0cbb18a9a5b443cb823fb633c612d0c1
+    name: cache-control
+    value: no-cache
+    description: ""
+  - id: pair_3bb67663955645149055a442ccf1c2b9
+    name: Authorization
+    value: Basic 641ed5c863538113cd290763679d6d2d0435eb62703184fd01c6195d69f3f030
+    description: ""
+  - id: pair_67bbd84e1582401fa2f2e996e5f63d2c
+    name: ""
+    value: ""
+    description: ""
+authentication:
+  type: bearer
+  token: 641ed5c863538113cd290763679d6d2d0435eb62703184fd01c6195d69f3f030
+  prefix: basic
+  disabled: true
+metaSortKey: -1678127930805
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

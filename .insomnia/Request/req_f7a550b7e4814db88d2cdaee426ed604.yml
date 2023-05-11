@@ -1,0 +1,21 @@
+_id: req_f7a550b7e4814db88d2cdaee426ed604
+type: Request
+parentId: fld_1662b20d4d454b8e829155c6f6d5b3df
+modified: 1670611239874
+created: 1670611227854
+url: http://localhost:4000/api/tasks/1
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1670611227854
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

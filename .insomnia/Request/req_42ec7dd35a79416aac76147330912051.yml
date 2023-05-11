@@ -1,0 +1,21 @@
+_id: req_42ec7dd35a79416aac76147330912051
+type: Request
+parentId: fld_08d3cfe2547949ffa28e502cfe92b269
+modified: 1681500010180
+created: 1681499857925
+url: https://dhodonto.ctdprojetos.com.br/dentista?matricula=288519d3-1353-40ef-96b3-949d9faea4ee
+name: Frontend III - CP II
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1662463527722.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

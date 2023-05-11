@@ -1,0 +1,39 @@
+_id: req_83dcf7450b0f4472bc7a45d20b793be1
+type: Request
+parentId: fld_e311d22c540242ac957d8fe6a00377d1
+modified: 1670501853724
+created: 1663094091744
+url: https://www.foxracing.com.br/_v/abandoned-cart
+name: abandoned cart 2
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-2
+      {
+        "email": "gabriel.henrique@agenciam3.com",
+        "skuURL": "599500",
+        "template": "vtexcommerce-abandoned-cart",
+        "additionalFields": {
+          "firstName": "Gabriel"
+        } 
+      }
+parameters: []
+headers:
+  - id: pair_3dcea17559e9446f8a99010c165635c6
+    name: "content-type "
+    value: application/json
+    description: ""
+  - id: pair_0abd02db3d6e4d5f9bfcdeb1396d330d
+    name: accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1670501828135
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

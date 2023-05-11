@@ -1,0 +1,36 @@
+_id: req_525fe5d067c84d8a952cb204f934792e
+type: Request
+parentId: fld_3f4a891efc4545caa72507035e40a34d
+modified: 1674837046608
+created: 1674837029997
+url: https://mobcom.myvtex.com/_v1/m3-services/sellers
+name: Sellers List - m3
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_61e943b9695d4c2fb38c994fcebc5efc
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-agenciamagma-CQYKOA
+    description: ""
+    disabled: true
+  - id: pair_a91942a8f4534f3da27b441f9563bac5
+    name: X-VTEX-API-AppToken
+    value: PNOLYBVVVVPLGJKEUKXLCPUVNXBDHUEJVUECAEARQAHNWIERNOROBTEUNUDGSALRJOOFTRNKOJVPVGBVMPYBJWXHHRSUDZODRTXDJEOIDEMOFELBQORHLWJSIPUYNEWY
+    description: ""
+    disabled: true
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1661520776300
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

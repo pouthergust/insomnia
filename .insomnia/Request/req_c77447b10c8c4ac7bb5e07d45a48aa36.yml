@@ -1,0 +1,36 @@
+_id: req_c77447b10c8c4ac7bb5e07d45a48aa36
+type: Request
+parentId: fld_e345de74e3c74e3888079514149d34f2
+modified: 1670501708037
+created: 1657197245142
+url: "{{ _.base_url_ws }}/api/catalog_system/pvt/seller/list?sellerType=2"
+name: Sellers List Test
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_61e943b9695d4c2fb38c994fcebc5efc
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-hmlzaffari-PTNLUB
+    description: ""
+    disabled: false
+  - id: pair_a91942a8f4534f3da27b441f9563bac5
+    name: X-VTEX-API-AppToken
+    value: HRSMWBBTUYZGJJTRZALWQIVSFJECGVLULCOLGPPWEOTWZEROASAMDZWZWZHMWZMYMEVGUIKKKPRBOYTARPCOVZRMFPOGHDZFBVKUJLURHQBOHUKYGGUGWYDMMJAETECH
+    description: ""
+    disabled: false
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1655942973433.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

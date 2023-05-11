@@ -1,0 +1,22 @@
+_id: req_6492df83886a43378514db8e235b4c44
+type: Request
+parentId: fld_2c80ddc33bab4a70921e55cee8693894
+modified: 1672828148530
+created: 1671801222918
+url: https://wsdes04--superrissul.myvtex.com/api/dataentities/LT/search/?_fields=products,listname&_where=listname='Compras
+  do mês'&&email=gabriel.henrique@agenciam3.com
+name: Master Data - list
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655942973571
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

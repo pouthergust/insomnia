@@ -1,0 +1,21 @@
+_id: req_d2a438906a0b4220a5554d3e410e2305
+type: Request
+parentId: fld_1af2218e407e479fbaa224210299f866
+modified: 1663030114076
+created: 1663029985083
+url: https://dsternlicht.github.io/RESTool/config.json
+name: request 01
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1663029985083
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

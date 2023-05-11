@@ -1,0 +1,21 @@
+_id: req_e18b813a77154ba3913c7fdc4360bf51
+type: Request
+parentId: fld_b4e6b0227c7044409a86defedd1d5601
+modified: 1679420802780
+created: 1666702588339
+url: https://wsdes02--fitdancesbf.myvtex.com/api/dataentities/TM/search/?_fields=tamanho,busto,cintura,quadril,coxa&_where=idCategoria=11
+name: Master Data
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1666702588340
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

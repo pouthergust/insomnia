@@ -1,0 +1,21 @@
+_id: req_7f3506616e67489c8edfff293ba84fa9
+type: Request
+parentId: fld_2c80ddc33bab4a70921e55cee8693894
+modified: 1672773465021
+created: 1671458204791
+url: https://wsdes04--superrissul.myvtex.com/api/dataentities/LT/search/?_where=email=gabriel.henrique@agenciam3.com&_fields=listname,id,products
+name: Master Data
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1655942973577.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

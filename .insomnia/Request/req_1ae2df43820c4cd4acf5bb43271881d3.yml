@@ -1,0 +1,31 @@
+_id: req_1ae2df43820c4cd4acf5bb43271881d3
+type: Request
+parentId: fld_1662b20d4d454b8e829155c6f6d5b3df
+modified: 1670611419531
+created: 1670611419174
+url: http://localhost:4000/api/tasks
+name: New Request
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"task": {
+    		"title": "Another task",
+    		"description": "One more description"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670611254451.25
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,29 @@
+_id: req_132c42958d9246a1bc59676107c54dbc
+type: Request
+parentId: fld_dd8867c45a6b4f3981f3a0404455d941
+modified: 1683568423409
+created: 1683297043459
+url: https://gui43--universalautomotive.myvtex.com/_v/oauth2/auth?client_id=UNIVERSALAUTOMOTIVE_4ca0136d-39e0-4def-aa16-cf26c5a40d45&response_type=code&redirect_uri=https://vtexid.vtex.com.br/VtexIdAuthSiteKnockout/ReceiveAuthorizationCode.ashx
+name: Auth
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_2c7ac13905d040f9ba9228555a14f278
+    name: Content-Type
+    value: application/json
+    description: ""
+  - id: pair_8b9462fb0fa64ceaa6a35abe627675ff
+    name: Accept
+    value: application/json
+    description: ""
+authentication: {}
+metaSortKey: -1683297043459
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

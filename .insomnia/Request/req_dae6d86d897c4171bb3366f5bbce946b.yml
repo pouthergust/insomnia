@@ -1,0 +1,36 @@
+_id: req_dae6d86d897c4171bb3366f5bbce946b
+type: Request
+parentId: fld_d4291a81323c4cb4888769d57a8d89eb
+modified: 1670875839484
+created: 1670850726626
+url: https://srwsdes01--agenciamagma.myvtex.com/api/checkout/pub/regions/YWdlbmNpYW1hZ21h
+name: Sellers by region
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_61e943b9695d4c2fb38c994fcebc5efc
+    name: X-VTEX-API-AppKey
+    value: vtexappkey-hmlzaffari-PTNLUB
+    description: ""
+    disabled: true
+  - id: pair_a91942a8f4534f3da27b441f9563bac5
+    name: X-VTEX-API-AppToken
+    value: HRSMWBBTUYZGJJTRZALWQIVSFJECGVLULCOLGPPWEOTWZEROASAMDZWZWZHMWZMYMEVGUIKKKPRBOYTARPCOVZRMFPOGHDZFBVKUJLURHQBOHUKYGGUGWYDMMJAETECH
+    description: ""
+    disabled: true
+authentication:
+  type: basic
+  useISO88591: false
+  disabled: true
+  username: ""
+  password: ""
+metaSortKey: -1662384350586
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,22 @@
+_id: req_f2506f1067ce42c9b94c39b8f3f6d092
+type: Request
+parentId: fld_c6189978cc2941d1becf39d5ab51aa28
+modified: 1680034543474
+created: 1680034338119
+url: https://pisano.myvtex.com/api/dataentities/PB/search?_fields=bank,card,percentage,fees,default&_where=active=true
+  AND default=true
+name: Promo Publica
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679748804098.875
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

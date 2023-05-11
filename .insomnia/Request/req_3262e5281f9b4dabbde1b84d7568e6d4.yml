@@ -1,0 +1,21 @@
+_id: req_3262e5281f9b4dabbde1b84d7568e6d4
+type: Request
+parentId: fld_b4e6b0227c7044409a86defedd1d5601
+modified: 1679580534518
+created: 1679580181368
+url: http://farmaciassimilaresmxswl1.vtexcommercestable.com.br/api/catalog_system/pub/category/tree/4
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1679580181368
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

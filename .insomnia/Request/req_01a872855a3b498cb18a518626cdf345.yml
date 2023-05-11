@@ -1,0 +1,21 @@
+_id: req_01a872855a3b498cb18a518626cdf345
+type: Request
+parentId: fld_9106239263ee4d3987294d534b57bdb9
+modified: 1671538983472
+created: 1671538940316
+url: https://caboslapp.myvtex.com/api/dataentities/PD/search/?_fields=pdArquivo
+name: Master Data
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1667926958904
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

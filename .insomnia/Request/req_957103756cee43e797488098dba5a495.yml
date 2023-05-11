@@ -1,0 +1,25 @@
+_id: req_957103756cee43e797488098dba5a495
+type: Request
+parentId: fld_08d3cfe2547949ffa28e502cfe92b269
+modified: 1669166715271
+created: 1669160564582
+url: http://localhost:8080/livros
+name: Backend I
+description: ""
+method: GET
+body:
+  mimeType: application/json
+  text: ""
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1662447692285
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

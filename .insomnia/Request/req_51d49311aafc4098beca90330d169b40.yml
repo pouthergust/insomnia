@@ -1,0 +1,30 @@
+_id: req_51d49311aafc4098beca90330d169b40
+type: Request
+parentId: fld_1662b20d4d454b8e829155c6f6d5b3df
+modified: 1670611398038
+created: 1670611373087
+url: http://localhost:4000/api/tasks/2
+name: update
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"task": {
+    		"description": "what's it"
+    	}
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1670611245585.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

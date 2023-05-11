@@ -1,0 +1,21 @@
+_id: req_5b4fd88ae3ce440ebcf083089feb8938
+type: Request
+parentId: wrk_26b7b8e49c904471a29a23e2e58b73f7
+modified: 1672252820080
+created: 1672252470040
+url: https://maps.googleapis.com/maps/api/geocode/json?latlng=40.714224,-73.961452&key=AIzaSyBagd_RDm0i9CYSohAm1GjgU-KhNFv1hvg
+name: Google map decoder
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1672252470040
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,21 @@
+_id: req_6b8baccb299e42d285f06a6e479a852c
+type: Request
+parentId: fld_76e8481840b742358593f3d57111a6dd
+modified: 1660825040005
+created: 1659572961952
+url: https://discord.com/api/guilds/819013428223672350/widget.json
+name: New Request
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1659572961952
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
